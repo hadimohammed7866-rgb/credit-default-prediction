@@ -8,14 +8,13 @@ This project focuses on predicting the likelihood of credit card default using *
 
 ## ⚙️ Methods Used
 - Logistic Regression  
-- Decision Trees  
+- SVM
 - Random Forest  
 - Gradient Boosting (XGBoost / LightGBM)  
-- Neural Networks (Deep Learning)  
+- MLP
 
 ## 📊 Results
 - Models evaluated using **Accuracy, Precision, Recall, F1-Score, and ROC-AUC**.  
-- **Neural Networks** showed improved performance compared to traditional models.  
 - Feature importance analysis revealed payment history and credit limit as key factors.
 
 ## 🚀 How to Run
